@@ -1,0 +1,24 @@
+{
+  "name": "school-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandroos/school-report-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandroos/school-report-generator/issues"
+  },
+  "homepage": "https://github.com/dandroos/school-report-generator#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.8",
+    "pdfkit": "^0.11.0"
+  }
+}
